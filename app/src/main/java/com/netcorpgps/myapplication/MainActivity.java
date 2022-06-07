@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //this is commit in localbranch
         //These comments should be in branch one
         //incheckout
+        //This is 2nd commit for mylocalbranch
 
     }
     public void mytest(){
