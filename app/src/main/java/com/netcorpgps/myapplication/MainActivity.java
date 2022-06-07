@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         //incheckout
         //This is 2nd commit for mylocalbranch
         //This is 3rd commit for my localbrnch
-
+        //This is 4th commit for my localbrnch
     }
     public void mytest(){
         //test
