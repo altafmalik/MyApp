@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         //This is 2nd commit for mylocalbranch
         //This is 3rd commit for my localbrnch
         //This is 4th commit for my localbrnch
+        //This is 1st master commit for my master
     }
     public void mytest(){
         //test
